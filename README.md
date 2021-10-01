@@ -23,7 +23,7 @@ For more annotations including tweets ids, please contact us. We can't release t
 | :--------------- | :------------- | :------------------------------ | :------------------------ |
 | 28 | 545 | 2,939,842 | 265 |
 
-Some statistics about each event [here](./stats_corpus).
+Some statistics about each event [here](./stats_corpus.md).
 
 [1] Zubiaga, A. (2018). A longitudinal assessment of the persistence of twitter datasets. J. Assoc. Inf. Sci. Technol., 69(8):974–984.
 
