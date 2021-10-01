@@ -1,0 +1,14 @@
+2014-09-18:
+Question 1: In which country does the referendum take place?
+
+2014-09-19:
+Question 2: What is the result of the referendum?
+Question 3: Was the turnout for this referendum high? What was the participation rate?
+Question 4: What did the Prime Minister David Cameron announce?
+Question 5: What did Scottish First Minister Alex Salmond do after the referendum results?
+
+2014-09-18,"<Q1>Voters in Scotland</Q1> go to the polls to vote on the referendum on independence."
+2014-09-19,"Scotland votes <Q2>'No' to Scottish independence</Q2>."
+2014-09-19,"<Q3>Voter turnout in the referendum hits 84.5%, a record high for any election held in the United Kingdom since the introduction of universal suffrage in 1918</Q3>."
+2014-09-19,"<Q4>Prime Minister David Cameron announces plans to devolve further powers to Scotland, as well as the UK's other constituent countries</Q4>."
+2014-09-19,"<Q5>Alex Salmond announces his resignation as First Minister of Scotland and leader of the Scottish National Party following the referendum</Q5>."

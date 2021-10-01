@@ -1,0 +1,15 @@
+2013-04-15:
+Question 1: How many explosions?
+Question 2: How many dead?
+Question 3: How many injured?
+Question 4: Are the Pakistani Taliban involved in the event?
+
+2013-04-16:
+Question 5: Do you know if there are any impacts on other events because of this one? (e.g. reassessment, cancellation,...) If so, which ones?
+
+
+
+2013-04-15,"<Q1>Two explosions</Q1> in Boston, United States, near the finish line of the 2013 Boston Marathon leave <Q2>3 people dead</Q2> and <Q3>183 injured</Q3>."
+2013-04-15,"<Q4>The Pakistani Taliban denies any involvement</Q4> in the Boston marathon bombings."
+2013-04-16,"<Q5>Organisers and security officials reassess security plans for Sunday's 2013 London Marathon. This follows yesterday's incident at the 2013 Boston Marathon</Q5> which killed three people."
+2013-04-16,"<Q5>The 2012–13 NBA season game between the Indiana Pacers and the Boston Celtics, which was originally scheduled for April 16, is cancelled after blasts in Boston</Q5>."

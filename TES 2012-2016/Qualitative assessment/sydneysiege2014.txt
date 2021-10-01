@@ -1,0 +1,12 @@
+2014-12-15:
+Question 1: Where did the hostage taking take place?
+Question 2: How many people were taken hostage?
+
+2014-12-16:
+Question 3: How many dead?
+Question 4: How many injured?
+
+
+2014-12-14,"At least 18 are held hostage in a chocolate shop in Sydney, Australia. Police stormed the café the following day."
+2014-12-15,"A gunman, Man Haron Monis, takes <Q2>17 people hostage</Q2> at <Q1>Lindt Chocolate Café in Martin Place, Sydney</Q1>."
+2014-12-16,"The hostage situation ends with <Q3>gunman Man Haron Monis and two hostages dead</Q3> and <Q4>four others injured</Q4>."

@@ -1,0 +1,8 @@
+2012-02-05:
+Question 1: Where did the Super Bowl 2012 take place?
+Question 2: What were the two teams in this final?
+Question 3: Which team won the title? What was the score?
+Question 4: Who was named as MVP (Most Valuable Player) of this Super Bowl?
+
+2012-02-05,"In American football, <Q1>Super Bowl XLVI is played in Indianapolis</Q1> with the <Q3><Q2>New York Giants defeating the New England Patriots</Q2>21-17</Q3>."
+2012-02-05,"<Q4>Quarterback Eli Manning of the Giants wins his second Super Bowl Most Valuable Player Award</Q4>."

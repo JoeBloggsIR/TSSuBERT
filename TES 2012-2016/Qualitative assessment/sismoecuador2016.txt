@@ -1,0 +1,35 @@
+2016-04-17:
+Question 1: How many dead?
+Question 2: How many injured?
+
+2016-04-18:
+Question 1: How many dead?
+
+2016-04-19:
+Question 1: How many dead?
+Question 2: How many injured?
+Question 3: How many people are missing?
+Question 4: What did President Rafael Correa state about the reconstruction of the country after this disaster?
+
+2016-04-20:
+Question 1: How many dead?
+Question 3: How many people are missing?
+Question 5: What happened in the same area as the massive earthquake at 3:33 a.m. local time in Ecuador?
+Question 6: What are the economic measures announced by the president Rafael Correa to deal with the damages caused by the earthquake?
+
+2016-04-23:
+Question 1: How many dead?
+Question 3: How many people are missing?
+
+2016-04-25:
+Question 7: What has the United Nations World Food Programme announced to do for the Ecuador’s most vulnerable areas?
+
+2016-04-17,"<Q1><Q2>The death toll from Saturday night's earthquake in Ecuador rises to 262</Q1> with more than 2,500 people injured</Q2>."
+2016-04-18,"Aid starts to flow in after <Q1>an earthquake kills over 270 people in Ecuador</Q1>."
+2016-04-19,"<Q1><Q3>The death toll from Saturday's earthquake has risen to at least 480</Q1> with 1,700 missing</Q3>. <Q2>Another 2,500 have been injured</Q2>. <Q4>President Rafael Correa states it is the worst disaster in Ecuador in seven decades, and the reconstruction will have a 'huge economic impact' on the country</Q4>."
+2016-04-20,"<Q5>A magnitude-6.1 aftershock has struck off the coast of Ecuador at 3:33 a.m. local time, the US Geological Survey says, in the same area as the massive earthquake on Saturday</Q5>."
+2016-04-20,"<Q1>People in Ecuador start burying their dead as the death toll from the earthquake passes 500</Q1>."
+2016-04-20,"<Q6>President Rafael Correa announces a sales tax increase, and a one-time levy on millionaires as the country deals with the enormous damage from this disaster</Q6>."
+2016-04-20,"<Q1>The death toll rises to 570</Q1> <Q3>with 163 people listed as missing</Q3>. Those made homeless climbs to over 23,500."
+2016-04-23,"<Q1>The death toll from the earthquake passes 650</Q1> <Q3>with over 50 people missing</Q3>. It is now the deadliest earthquake in South America this century."
+2016-04-25,"<Q7>The United Nations World Food Programme announces it is stepping up assistance to Ecuador’s most vulnerable areas following an earthquake that killed over 650 people</Q7>."

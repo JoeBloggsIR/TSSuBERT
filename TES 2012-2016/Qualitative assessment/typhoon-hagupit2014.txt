@@ -1,0 +1,16 @@
+2014-12-06:
+Question 1: Where did the typhoon make landfall?
+
+2014-12-07:
+Question 2: How many dead?
+
+2014-12-08:
+Question 2: How many dead?
+
+2014-12-11:
+Question 2: How many dead?
+
+2014-12-06,"Typhoon Hagupit (Ruby), a strong tropical cyclone, <Q1>makes landfall hitting the Philippines</Q1>."
+2014-12-07,"The <Q2>death toll from Typhoon Hagupit in the Philippines is at least three</Q2> as the storm weakens."
+2014-12-08,"The Philippine Red Cross <Q2>estimates 27 people killed</Q2> in Eastern Samar province with 15 in Borongan."
+2014-12-11,"The <Q2>death toll from Typhoon Hagupit rises to 18</Q2>."

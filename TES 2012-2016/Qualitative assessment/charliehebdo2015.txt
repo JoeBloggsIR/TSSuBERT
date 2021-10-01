@@ -1,0 +1,32 @@
+2015-01-07:
+Question 1: How many dead?
+Question 2: How many injured?
+Question 3: How many suspects have been identified by the police?
+Question 4: What were their motivations?
+
+2015-01-08:
+Question 5: What happened on the night of January 7 and morning of January 8 against mosques?
+
+2015-01-09:
+Question 6: How did the hostage taking situation at the sign printing company end?
+Question 7: How did the hostage taking situation at the Hypercacher (Jewish market) end?
+
+2015-01-11:
+Question 8: What happened in Germany?
+
+2015-01-13:
+Question 9: What has France done to protect sensitive sites?
+
+2015-01-14:
+Question 10: What has Charlie Hebdo done as a counterpoint to the shootings?
+
+2015-01-07,"Gunmen attack the Paris office of the French satirical magazine Charlie Hebdo, <Q1>killing twelve people</Q1> and <Q2>injuring ten</Q2>. Some witnesses report that the gunmen identified themselves as <Q4>belonging to al-Qaeda in Yemen. A 2011 issue had depicted a cartoon of the Islamic prophet Muhammed</Q4>."
+2015-01-07,"<Q3>French police identify three suspects</Q3> in the killings with raids being conducted in the city of Reims for the assailants, brothers Said and Cherif Kaouchi, aged 32 and 34, respectively, and Hamyd Mourad, 18."
+2015-01-08,"One of the suspects in the killings, Hamyd Mourad, voluntarily surrenders to police in Charleville-Mézières while the other two suspects are still at large."
+2015-01-08,"<Q5>On the night of January 7 and morning of January 8, assailants throw grenades and fire guns at three mosques</Q5> throughout France."
+2015-01-09,"<Q6>The two suspect brothers take a hostage at a sign printing company, Création Tendance Découverte, in the French town of Dammartin-en-Goële. The standoff ends with the two brothers dead and the hostage released</Q6>."
+2015-01-09,"<Q7>A second hostage situation of unclear connection occurs at a Jewish market, Hypercacher</Q7>, in the eastern Paris suburb of Vincennes. There are two suspected hostage takers, Hayat Boumeddiene, 26, and Amedy Coulibaly, 32, who were previously suspected of shooting a policewoman dead earlier in the week. There are at least sixteen hostages. The concurrent standoff <Q7>ends with Coulibaly dead as well as four hostages. Four additional hostages and two police officers require hospitalization. Boumeddiene remains at large</Q7>."
+2015-01-11,"Thousands of police and military personnel prepare to secure a Paris unity rally with up to a million people expected to attend."
+2015-01-11,"<Q8>An arson attack on the German newspaper Hamburger Morgenpost</Q8>, which published cartoons from Charlie Hebdo, causes no injuries but leads to two arrests."
+2015-01-13,"<Q9>France announces plans to deploy 10,000 troops to protect sensitive sites across the country</Q9> beginning tonight."
+2015-01-14,"<Q10>Charlie Hebdo publishes an edition as a counterpoint to the Charlie Hebdo shootings</Q10>."
