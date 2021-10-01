@@ -8,7 +8,7 @@ This GitHub repository contains the Corpus and Model contributions of the paper 
 * [TES 2012-2016](./TES%202012-2016): Contains the Gold Standard, the generated summaries - including Oracles -, and the qualitative assessment.
 	* [Summaries](./TES%202012-2016/Summaries): Contains the Gold Standard and two generated extractive Oracle for the corpus as well as COWTS, SEMCOWTS, SCC, TSSuBERT and TSSubERT-F generated summaries.
 	* [Gold Standard](./TES%202012-2016/Gold%20Standard): Contains the Gold Standard generated using the [Wikipedia Current Event portal](https://en.wikipedia.org/wiki/Portal:Current_events)
-	* [Qualitative assessment](./TES%202012-2016/Questions): Contains the questions and their associated answers we created for the manual annotations + additional informations retrieved during assessment.
+	* [Qualitative assessment](./TES%202012-2016/Qualitative%20assessment): Contains the questions and their associated answers we created for the manual annotations + additional informations retrieved during assessment.
 
 ## :floppy_disk: Overview of the TES 2012-2016 dataset
 
