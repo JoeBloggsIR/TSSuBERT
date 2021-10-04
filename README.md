@@ -6,8 +6,8 @@ This GitHub repository contains the Corpus and Model contributions of the paper 
 
 * [Model](./Model): Contains the architecture of the model using TensorFlow as well as the transformers library and the trained weights we used in the paper.
 * [TES 2012-2016](./TES%202012-2016): Contains the Gold Standard, the generated summaries - including Oracles -, and the qualitative assessment.
-	* [Summaries](./TES%202012-2016/Summaries): Contains the Gold Standard and two generated extractive Oracle for the corpus as well as COWTS, SEMCOWTS, SCC, TSSuBERT and TSSubERT-F generated summaries.
-	* [Gold Standard](./TES%202012-2016/Gold%20Standard): Contains the Gold Standard generated using the [Wikipedia Current Event portal](https://en.wikipedia.org/wiki/Portal:Current_events)
+	* [Summaries](./TES%202012-2016/Summaries): Contains two generated extractive Oracle for the corpus as well as COWTS, SEMCOWTS, SCC, TSSuBERT and TSSubERT-F generated summaries.
+	* [Gold Standard](./TES%202012-2016/Gold%20Standard): Contains the Gold Standard built using the [Wikipedia Current Event portal](https://en.wikipedia.org/wiki/Portal:Current_events)
 	* [Qualitative assessment](./TES%202012-2016/Qualitative%20assessment): Contains the questions and their associated answers we created for the manual annotations + additional informations retrieved during assessment.
 
 ## :floppy_disk: Overview of the TES 2012-2016 dataset
@@ -19,11 +19,11 @@ For more annotations including tweets ids, please contact us. We can't release t
 
 ### Some statistics about the entire collection
 
-| Number of events | Number of days | Mean number of tweets per event | Mean Gold Standard length |
+| Number of events | Number of days | Average number of tweets per event | Average Gold Standard length |
 | :--------------- | :------------- | :------------------------------ | :------------------------ |
 | 28 | 545 | 2,939,842 | 265 |
 
-Some statistics about each event [here](./stats_corpus.md).
+Some statistics about each event are available [here](./stats_corpus.md).
 
 [1] Zubiaga, A. (2018). A longitudinal assessment of the persistence of twitter datasets. J. Assoc. Inf. Sci. Technol., 69(8):974–984.
 
@@ -35,7 +35,7 @@ Some statistics about each event [here](./stats_corpus.md).
 
 ##### Description: [Wikipedia](https://en.wikipedia.org/wiki/2016_Ecuador_earthquake)
 
-The tweets were retrieved by [1] from the April 17, 2016 to April 28, 2016 with the following keywords: '#sismoecuador', '#terremotoecuador', 'terremoto', 'ecuador'
+The tweets were retrieved by [1] from April 17, 2016 to April 28, 2016 with the following keywords: '#sismoecuador', '#terremotoecuador', 'terremoto', 'ecuador'
 
 ##### Gold Standard:
 
@@ -200,7 +200,7 @@ Question 7: What has the United Nations World Food Programme announced to do for
 
 ##### Description: [Wikipedia](https://en.wikipedia.org/wiki/Super_Bowl_XLVI)
 
-The tweets were retrieved by [1] from the February 3, 2012 to February 7, 2012 with the following keywords: '#superbowl'
+The tweets were retrieved by [1] from February 3, 2012 to February 7, 2012 with the following keywords: '#superbowl'
 
 ##### Gold Standard:
 
@@ -259,7 +259,7 @@ Question 4: Who was named as MVP (Most Valuable Player) of this Super Bowl?
 
 ##### Description: [Wikipedia](https://en.wikipedia.org/wiki/2014_Scottish_independence_referendum)
 
-The tweets were retrieved by [1] from the September 17, 2014 to September 20, 2014 with the following keywords: '#indyref'
+The tweets were retrieved by [1] from September 17, 2014 to September 20, 2014 with the following keywords: '#indyref'
 
 ##### Gold Standard:
 
